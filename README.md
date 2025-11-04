@@ -25,13 +25,6 @@ It includes my education, certifications, and hands-on experience with hardware 
 
 ---
 
-
-## 📥 View or Download
-- [View Resume (PDF)](./Apurve_Trivedi_Resume.pdf)
-- You can also click **"Download"** in the GitHub file viewer to save a local copy.
-
----
-
 ## 🗓️ Last Updated
 **November 2025**
 

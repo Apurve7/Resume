@@ -26,7 +26,7 @@ It includes my education, certifications, and hands-on experience with hardware 
 ---
 
 ## 🗓️ Last Updated
-**November 2025**
+**March 2026**
 
 ---
 
